@@ -1,0 +1,10 @@
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\bin\Debug\txtdictionary.exe.config
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\bin\Debug\txtdictionary.exe
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\bin\Debug\txtdictionary.pdb
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\bin\Debug\txtdictionary.xml
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\obj\Debug\txtdictionary.Form1.resources
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\obj\Debug\txtdictionary.Resources.resources
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\obj\Debug\txtdictionary.vbproj.GenerateResource.Cache
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\obj\Debug\txtdictionary.exe
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\obj\Debug\txtdictionary.xml
+c:\users\eisner\documents\visual studio 2013\Projects\txtdictionary\txtdictionary\obj\Debug\txtdictionary.pdb
